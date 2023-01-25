@@ -55,7 +55,7 @@ Cyber Security Tool For Hacking Wireless Connections Using Built-In Kali Tools. 
     apt install python
     apt install python3
     apt install cmatrix
-    git clone https://github.com/akashblackhat/wifi-hacking.py.git
+    git clone https://github.com/Ram2020-art/wifi_hacking.py
     ls
     cd wifi-hacking.py
     ls
